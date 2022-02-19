@@ -38,6 +38,7 @@
     "@nrwl/eslint-plugin-nx": "13.8.3",
     "@nrwl/jest": "13.8.3",
     "@nrwl/linter": "13.8.3",
+    "@nrwl/nx-workshop": "0.0.1",
     "@nrwl/tao": "13.8.3",
     "@nrwl/workspace": "13.8.3",
     "@types/jest": "27.0.2",
