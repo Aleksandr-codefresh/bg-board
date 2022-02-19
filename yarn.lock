@@ -2032,10 +2032,10 @@
     tslib "^2.3.0"
     yargs "15.4.1"
 
-"@nrwl/nx-workshop@0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@nrwl/nx-workshop/-/nx-workshop-0.0.1.tgz#5fa178613891d810529fdd3f64bb8ddfee925e91"
-  integrity sha512-9pSo1yshccXKVpJuy8WB4Si1gOlOpOwPNABB8ykTJGLOSPn4JbYXQ47+m81uAnshM/GdLOjhIE+qh/gbS9NIMA==
+"@nrwl/nx-workshop@0.1.28":
+  version "0.1.28"
+  resolved "https://registry.yarnpkg.com/@nrwl/nx-workshop/-/nx-workshop-0.1.28.tgz#fc35d570cd546e2e4723c40b26e9921f474e8874"
+  integrity sha512-csnAb3uYMq9Z+87q9PIvPZIcy8leYV/LauemBZyP3PWONbmqGqN9mpoz+e0HoCIdgRNm/1Wnk+UgNvCUNTRWFA==
   dependencies:
     "@nrwl/angular" "13.2.3"
     "@nrwl/nest" "13.2.3"

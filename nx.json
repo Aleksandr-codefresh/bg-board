@@ -1,5 +1,5 @@
 {
-  "npmScope": "bg-board",
+  "npmScope": "bg-hoard",
   "affected": {
     "defaultBase": "main"
   },
@@ -37,6 +37,7 @@
       "e2eTestRunner": "cypress"
     },
     "@nrwl/angular:library": {
+      "style": "css",
       "linter": "eslint",
       "unitTestRunner": "jest"
     },
