@@ -15,6 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@bg-hoard/store/feature-game-detai": [
+        "libs/store/feature-game-detai/src/index.ts"
+      ],
       "@bg-hoard/store/ui-shared": ["libs/store/ui-shared/src/index.ts"],
       "@bg-hoard/store/util-formatters": [
         "libs/store/util-formatters/src/index.ts"
