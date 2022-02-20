@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@bg-hoard/api/util-interface": ["libs/api/util-interface/src/index.ts"],
       "@bg-hoard/store/feature-game-detai": [
         "libs/store/feature-game-detai/src/index.ts"
       ],
